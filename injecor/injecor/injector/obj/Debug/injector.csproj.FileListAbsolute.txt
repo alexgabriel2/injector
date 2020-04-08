@@ -1,0 +1,80 @@
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.csprojAssemblyReference.cache
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.Properties.Resources.resources
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.csproj.GenerateResource.cache
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.csproj.CoreCompileInputs.cache
+C:\Users\mariusz\source\repos\injector\injector\bin\Debug\injector.exe.config
+C:\Users\mariusz\source\repos\injector\injector\bin\Debug\injector.exe
+C:\Users\mariusz\source\repos\injector\injector\bin\Debug\injector.pdb
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.memepanel.resources
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.exe
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.pdb
+C:\Users\mariusz\source\repos\injector\injector\obj\Debug\injector.Form1.resources
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\bin\Debug\injector.exe.config
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\bin\Debug\injector.exe
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\bin\Debug\injector.pdb
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.Form1.resources
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.memepanel.resources
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.Properties.Resources.resources
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.exe
+C:\Users\alex\Desktop\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.pdb
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.csprojAssemblyReference.cache
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.Form1.resources
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.memepanel.resources
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.Properties.Resources.resources
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.csproj.GenerateResource.cache
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\injector.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\bin\Debug\green injector.exe.config
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\bin\Debug\green injector.exe
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\bin\Debug\green injector.pdb
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\green injector.exe
+C:\Users\green\Desktop\hack\hack\bBYiOl0OAFCiDlm\injector\injector\obj\Debug\green injector.pdb
+C:\Users\green\Desktop\hack\hack\injecor\injector\bin\Debug\green injector.exe.config
+C:\Users\green\Desktop\hack\hack\injecor\injector\bin\Debug\green injector.exe
+C:\Users\green\Desktop\hack\hack\injecor\injector\bin\Debug\green injector.pdb
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\injector.csprojAssemblyReference.cache
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\injector.Form1.resources
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\injector.memepanel.resources
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\injector.Properties.Resources.resources
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\injector.csproj.GenerateResource.cache
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\injector.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\green injector.exe
+C:\Users\green\Desktop\hack\hack\injecor\injector\obj\Debug\green injector.pdb
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\bin\Debug\green injector.exe.config
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\bin\Debug\green injector.exe
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\bin\Debug\green injector.pdb
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\injector.csprojAssemblyReference.cache
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\injector.Form1.resources
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\injector.memepanel.resources
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\injector.Properties.Resources.resources
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\injector.csproj.GenerateResource.cache
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\injector.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\green injector.exe
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Debug\green injector.pdb
+C:\Users\green\Desktop\injecor\injecor\injector\bin\Debug\green injector.exe.config
+C:\Users\green\Desktop\injecor\injecor\injector\bin\Debug\green injector.exe
+C:\Users\green\Desktop\injecor\injecor\injector\bin\Debug\green injector.pdb
+C:\Users\green\Desktop\injecor\injecor\injector\obj\Debug\injector.csprojAssemblyReference.cache
+C:\Users\green\Desktop\injecor\injecor\injector\obj\Debug\injector.Form1.resources
+C:\Users\green\Desktop\injecor\injecor\injector\obj\Debug\injector.memepanel.resources
+C:\Users\green\Desktop\injecor\injecor\injector\obj\Debug\injector.Properties.Resources.resources
+C:\Users\green\Desktop\injecor\injecor\injector\obj\Debug\injector.csproj.GenerateResource.cache
+C:\Users\green\Desktop\injecor\injecor\injector\obj\Debug\green injector.exe
+C:\Users\green\Desktop\injecor\injecor\injector\obj\Debug\green injector.pdb
+D:\injecor\injecor\injector\bin\Debug\green injector.exe.config
+D:\injecor\injecor\injector\bin\Debug\green injector.exe
+D:\injecor\injecor\injector\bin\Debug\green injector.pdb
+D:\injecor\injecor\injector\obj\Debug\injector.csprojAssemblyReference.cache
+D:\injecor\injecor\injector\obj\Debug\injector.Form1.resources
+D:\injecor\injecor\injector\obj\Debug\injector.memepanel.resources
+D:\injecor\injecor\injector\obj\Debug\injector.Properties.Resources.resources
+D:\injecor\injecor\injector\obj\Debug\injector.csproj.GenerateResource.cache
+D:\injecor\injecor\injector\obj\Debug\green injector.exe
+D:\injecor\injecor\injector\obj\Debug\green injector.pdb
+D:\injecor\injecor\injector\bin\Debug\green injector.exe.manifest
+D:\injecor\injecor\injector\bin\Debug\green injector.application
+D:\injecor\injecor\injector\obj\Debug\green injector.TrustInfo.xml
+D:\injecor\injecor\injector\obj\Debug\green injector.exe.manifest
+D:\injecor\injecor\injector\obj\Debug\green injector.application

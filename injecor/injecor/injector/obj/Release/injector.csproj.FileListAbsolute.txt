@@ -1,0 +1,10 @@
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\bin\Release\green injector.exe.config
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\bin\Release\green injector.exe
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\bin\Release\green injector.pdb
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Release\injector.Form1.resources
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Release\injector.memepanel.resources
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Release\injector.Properties.Resources.resources
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Release\injector.csproj.GenerateResource.cache
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Release\injector.csproj.CoreCompileInputs.cache
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Release\green injector.exe
+C:\Users\green\Desktop\cica selfcoder dar dau doar paste\hack\injecor\injector\obj\Release\green injector.pdb
